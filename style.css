@@ -1,4 +1,22 @@
 body{
     background: url(background.jpeg);
     background-size: cover;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Keys{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.key{
+    text-align: center;
+}
+
+kbd {
+    display: block;
 }
