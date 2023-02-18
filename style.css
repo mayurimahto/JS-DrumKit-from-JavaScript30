@@ -15,6 +15,17 @@ body{
 
 .key{
     text-align: center;
+    border: .4rem white;
+    border-radius: 0.5rem;
+    width: 10rem;
+    color: white;
+    margin: 1rem;
+    padding: 1 rem, .5rem;
+    font-size: 2rem;
+    background: rgba(243, 242, 242, 0.3);
+    transition: all .07s ease;
+    text-shadow: 0 0 .5rem whitesmoke;
+
 }
 
 kbd {
