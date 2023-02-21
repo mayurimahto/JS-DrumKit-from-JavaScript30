@@ -30,4 +30,10 @@ body{
 
 kbd {
     display: block;
+    font-size: 3rem;
+}
+
+.sound {
+    font-size: 2rem;
+
 }
