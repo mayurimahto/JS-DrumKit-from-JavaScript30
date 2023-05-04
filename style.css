@@ -23,9 +23,15 @@ body{
     padding: 1 rem, .5rem;
     font-size: 2rem;
     background: rgba(243, 242, 242, 0.3);
-    transition: all .07s ease;
+    transition: all 0.07s;
     text-shadow: 0 0 .5rem whitesmoke;
 
+}
+
+.playing{
+    transform: scale(1.1);
+    border-color: black;
+    box-shadow: 0 0 1rem black;
 }
 
 kbd {
